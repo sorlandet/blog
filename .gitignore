@@ -13,13 +13,6 @@
 *.log
 
 .htaccess
-
-#ElasticBeanstalk Configs we won't need in the repo
-AWSDevTools/
-AWSDevTools-OneTimeSetup.bat
-AWSDevTools-RepositorySetup.bat
-scripts/
-AWSDevTools-RepositorySetup.sh
  
 #These are to ignore media files which we again DON'T want in our GIT Repo.
 wp-content/uploads/
