@@ -23,7 +23,7 @@
  define('DB_NAME', $_SERVER['DB_NAME']);
              
  /** MySQL database username */
- define('DB_USER', $_SERVER['DB_USER']);
+ define('DB_USER', $_SERVER['DB_USER1']);
              
  /** MySQL database password */
  define('DB_PASSWORD', $_SERVER['DB_PASSWORD']);
