@@ -25,3 +25,8 @@ local-config.php
 sitemap.xml
 sitemap.xml.gz
 
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
